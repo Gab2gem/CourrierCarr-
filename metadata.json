@@ -1,0 +1,5 @@
+{
+  "name": "CourrierCarré",
+  "description": "Générateur de courriers juridiques et administratifs (Résiliation, Litige, Amende). Modèle SaaS avec prévisualisation et paiement à l'acte.",
+  "requestFramePermissions": []
+}
