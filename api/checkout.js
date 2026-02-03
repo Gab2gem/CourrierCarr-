@@ -20,7 +20,7 @@ export default async function handler(req, res) {
               name: 'Document Juridique PDF - CourrierCarré',
               description: 'Génération, certification et téléchargement.',
             },
-            unit_amount: 390, // 3.90€
+            unit_amount: 99, // ICI : 0.99€ (Le montant est en centimes)
           },
           quantity: 1,
         },
